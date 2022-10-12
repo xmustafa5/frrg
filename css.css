@@ -1,0 +1,15 @@
+.cards{display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    height: 100vh;}
+    .card{
+        background-color: blue;
+        padding: 20px;
+        text-align: center;
+    margin-left: 40px;
+    }
+    .card h1{
+        font-size: 60px;
+    }
+    
